@@ -1,0 +1,17 @@
+{
+  "name": "REST_node_restify_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql": "^2.16.0",
+    "restify": "^7.2.1",
+    "restify-cors-middleware": "^1.1.1"
+  }
+}
